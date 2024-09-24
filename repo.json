@@ -11,7 +11,5 @@
 		"description": "Private server for Brawl Stars",
 		"bundleID": "com.dnulls.xyz.brawl",
 		"appstore": "com.supercell.brawlstars",
-		"contact": {
-			"web": "https://github.com/metercraft"
-		}]
+	}]
 }
