@@ -7,11 +7,10 @@
 		"name": "Null's Brawl",
 		"version": "55.164",
 		"down": "https://www.mediafire.com/file/01fda20477jyjbx/nb57.325_b67e0e9d_2.ipa/file?dkey=6szbm5rae2n&r=820",
-		"category": "Tweaked Games",
-		"description": "Privat server for Brawl Stars",
+		"category": "Tweaked Apps",
+		"description": "Private server for Brawl Stars",
 		"bundleID": "com.dnulls.xyz.brawl",
 		"appstore": "com.supercell.brawlstars",
 		"contact": {
-			
+			"web": "https://github.com/metercraft",
 		}
-	}]
