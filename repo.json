@@ -1,18 +1,17 @@
 {
 	"META": {
-		"repoName": "Scarlet Repo",
+		"repoName": "MeterCraft's Repo",
 		"repoIcon": "https://usescarlet.com/favicon.png"
 	},
-	"Tweaked": [{
-		"name": "uYou+",
-		"version": "18.01.6",
-		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.01.6-2.3.1/uYouPlus_18.01.6_2.3.1.ipa",
-		"category": "Tweaked Apps",
-		"description": "True ad-less YouTube...",
-		"bundleID": "com.google.ios.youtube",
-		"appstore": "com.google.ios.youtube",
+	"Games": [{
+		"name": "Null's Brawl",
+		"version": "55.164",
+		"down": "https://www.mediafire.com/file/01fda20477jyjbx/nb57.325_b67e0e9d_2.ipa/file?dkey=6szbm5rae2n&r=820",
+		"category": "Tweaked Games",
+		"description": "Privat server for Brawl Stars",
+		"bundleID": "com.dnulls.xyz.brawl",
+		"appstore": "com.supercell.brawlstars",
 		"contact": {
-			"web": "https://repo.twickd.com",
-			"twitter": "https://twitter.com/twickdrepo"
+			
 		}
 	}]
